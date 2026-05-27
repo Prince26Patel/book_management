@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "bookmanagement-production-9712.up.railway.app";
+const API_URL = "https://bookmanagement-production-9712.up.railway.app";
 
 export const getBooks = async () => {
   const response = await axios.get(API_URL);
