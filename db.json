@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1925
+    },
+    {
+      "id": 4,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "year": 2011
+    },
+    {
+      "id": 5,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "year": 1965
+    },
+    {
+      "title": "Hello",
+      "author": "Prince",
+      "genre": "Dystopian",
+      "year": 2006,
+      "id": 6
+    },
+    {
+      "title": "Janhavi",
+      "author": "Janhavii",
+      "genre": "Sci-Fi",
+      "year": 2001,
+      "id": 7
+    },
+    {
+      "title": "hellsy",
+      "author": "jhj",
+      "genre": "Fiction",
+      "year": 2022,
+      "id": 8
+    }
+  ]
+}
