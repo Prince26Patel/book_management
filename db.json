@@ -1,13 +1,6 @@
 {
   "books": [
     {
-      "id": 3,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "genre": "Fiction",
-      "year": 1925
-    },
-    {
       "id": 4,
       "title": "Sapiens",
       "author": "Yuval Noah Harari",
